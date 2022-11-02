@@ -1,5 +1,6 @@
 # Boogie
-**Version 1.0.0**
+**Version 1.0.0**<br>
+<img src="https://github.com/KaiSomething/Boogie/blob/main/boogie.jpg" width="150">
 
 A Discord bot that can play music into voice chat. It was made as a replacement for the late Groovy.
 
